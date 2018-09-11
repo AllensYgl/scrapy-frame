@@ -1,0 +1,1 @@
+scrapy shell 'http://quotes.toscrape.com'
