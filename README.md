@@ -2,7 +2,8 @@
 
 
 ---
-
+### 安装
+> ###### python -m pip install Scrapy
 
 ### 生成框架
 
